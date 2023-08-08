@@ -1,0 +1,13 @@
+:root{
+  --cor-bg: #1a1a1a;
+  --cor-secundaria: #acacac;
+  --cor-terciaria: #fff;
+}
+
+body {
+  margin: 0;
+  background-color: var(--cor-bg);
+  font-family: 'Montserrat', sans-serif;
+}
+
+
